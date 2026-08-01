@@ -40,11 +40,9 @@ I'm a dedicated software engineer with a strong focus on backend development and
     <td style="border: none; background-color: inherit;"><strong>Backend</strong></td>
   </tr>
   <tr style="border: none; background-color: inherit;">
-    <td style="border: none; background-color: inherit;" valign="middle">
+    <td style="border: none; background-color: inherit;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50">
-      <div style="border-radius: 5px; display: inline-block; overflow: hidden; width: 50px; height: 50px;">
-        <img src="./express_logo.png" width="50" height="50">
-      </div>
+      <img src="./express_logo.png" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50">
