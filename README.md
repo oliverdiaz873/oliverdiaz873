@@ -16,12 +16,12 @@ I'm a dedicated software engineer with a strong focus on backend development and
 
 ## 🚀 Technologies & Tools
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;"><strong>Frontend & Testing</strong></td>
+<table style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td style="border: none; background: transparent;"><strong>Frontend & Testing</strong></td>
   </tr>
-  <tr style="border: none;">
-    <td style="border: none;">
+  <tr style="border: none; background: transparent;">
+    <td style="border: none; background: transparent;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50">
@@ -35,16 +35,14 @@ I'm a dedicated software engineer with a strong focus on backend development and
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50">
     </td>
   </tr>
-  <tr style="border: none;">
-    <td style="border: none;"><strong>Backend</strong></td>
+  <tr style="border: none; background: transparent;">
+    <td style="border: none; background: transparent;"><strong>Backend</strong></td>
   </tr>
-  <tr style="border: none;">
-    <td style="border: none;" valign="middle">
+  <tr style="border: none; background: transparent;">
+    <td style="border: none; background: transparent;" valign="middle">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50">
-      <span style="display: inline-block; background: white; border-radius: 5px; width: 50px; height: 50px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50">
-      </span>
+      <img src="./express_logo.png" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50">
