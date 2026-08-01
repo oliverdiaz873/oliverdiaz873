@@ -1,6 +1,6 @@
 # Hi, I'm Oliver Díaz 👋
 
-![Banner](./bannerprofile.png)
+<img src="./bannerprofile.png" alt="Banner" style="border: 1px solid #333; border-radius: 10px; width: 100%;">
 
 ## Full-Stack Developer
 
@@ -16,12 +16,12 @@ I'm a dedicated software engineer with a strong focus on backend development and
 
 ## 🚀 Technologies & Tools
 
-<table style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; background: transparent;"><strong>Frontend & Testing</strong></td>
+<table style="border: none; background-color: inherit;">
+  <tr style="border: none; background-color: inherit;">
+    <td style="border: none; background-color: inherit;"><strong>Frontend & Testing</strong></td>
   </tr>
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; background: transparent;">
+  <tr style="border: none; background-color: inherit;">
+    <td style="border: none; background-color: inherit;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50">
@@ -33,16 +33,18 @@ I'm a dedicated software engineer with a strong focus on backend development and
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
     </td>
   </tr>
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; background: transparent;"><strong>Backend</strong></td>
+  <tr style="border: none; background-color: inherit;">
+    <td style="border: none; background-color: inherit;"><strong>Backend</strong></td>
   </tr>
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; background: transparent;" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
+  <tr style="border: none; background-color: inherit;">
+    <td style="border: none; background-color: inherit;" valign="middle">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50">
-      <img src="./express_logo.png" width="50" height="50">
+      <div style="border-radius: 5px; display: inline-block; overflow: hidden; width: 50px; height: 50px;">
+        <img src="./express_logo.png" width="50" height="50">
+      </div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50">
