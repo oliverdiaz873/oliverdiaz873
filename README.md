@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Oliver Díaz 👋
 
-<!--
-**oliverdiaz873/oliverdiaz873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a software developer passionate about building scalable and maintainable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on backend development, software architecture, testing, and modern web technologies.
+
+## 🚀 Technologies & Tools
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Angular
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication & Authorization
+- Backend Architecture
+
+### Databases
+- SQL
+- PostgreSQL
+- MongoDB
+
+### Testing & Tools
+- Jest
+- Git & GitHub
+- Docker
+- Linux
+- VS Code
+
+## 📚 Currently Learning
+
+- Backend architecture patterns
+- Database design
+- Automated testing
+- DevOps fundamentals
+- Cloud technologies
+
+## 💻 Featured Projects
+
+### 🛒 Hipermercado Superior
+E-commerce platform focused on modern frontend architecture and scalable backend design.
+
+**Stack:**
+Angular • Node.js • Express • Databases
+
+---
+
+## 📈 My Goals
+
+- Build production-ready applications
+- Improve software engineering practices
+- Contribute to open source projects
+- Grow as a backend and full-stack developer
+
+## 📫 Connect with me
+
+GitHub: https://github.com/YOUR_USERNAME
