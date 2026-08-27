@@ -49,6 +49,14 @@ I'm a dedicated software engineer with a strong focus on backend development and
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50">
     </td>
   </tr>
+  <tr style="border: none; background-color: inherit;">
+    <td style="border: none; background-color: inherit;"><strong>DevOps & CI/CD</strong></td>
+  </tr>
+  <tr style="border: none; background-color: inherit;">
+    <td style="border: none; background-color: inherit;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50">
+    </td>
+  </tr>
 </table>
 
 ## 📚 Currently Learning
