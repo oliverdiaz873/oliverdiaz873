@@ -34,7 +34,6 @@ I'm a dedicated software engineer with a strong focus on backend development and
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="65" height="65">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
     </td>
   </tr>
   <tr style="border: none; background-color: inherit;">
@@ -57,6 +56,7 @@ I'm a dedicated software engineer with a strong focus on backend development and
   <tr style="border: none; background-color: inherit;">
     <td style="border: none; background-color: inherit;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
     </td>
   </tr>
 </table>
